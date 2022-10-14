@@ -8,6 +8,11 @@ Clone o repositório
 git clone https://github.com/droid95/app-jornada-de-trabalho.git
 ```
 
+Vá até a pasta onde se encontra a raiz do projeto
+```
+cd app-jornada-de-trabalho
+```
+
 ### Backend
 
 Vá até a pasta `backend` e rode os seguintes comandos
