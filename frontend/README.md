@@ -15,7 +15,9 @@ Esse projeto foi construído usando CRA [Create React App](https://github.com/fa
 
 Pra rodar o front, rode o seguinte comando no terminal:
 
-### `npm start`
+```
+npm start
+```
 
 Abra [http://localhost:3000](http://localhost:3000) pra visualizar a página inicial.
 
@@ -23,14 +25,20 @@ Abra [http://localhost:3000](http://localhost:3000) pra visualizar a página ini
 
 Pra buildar o React rode o comando abaixo:
 
-### `npm run build`
+```
+npm run build
+```
 
 Pra executar o build da aplicação, primeiro instale o pacote `serve` globalmente pra criar um servidor local pra servir os arquivos buildados:
 
-### `npm install -g serve`
+```
+npm install -g serve
+```
 
 Em seguida execute:
 
-### `serve -s build`
+```
+serve -s build
+```
 
 Abra [http://localhost:3000](http://localhost:3000) pra visualizar a página inicial, porém mais leve e com os assets empacotados e minificados.

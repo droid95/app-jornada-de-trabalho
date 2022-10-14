@@ -11,4 +11,6 @@
 
 Pra rodar o backend, rode o seguinte comando no terminal:
 
-### `npm start`
+```
+npm start
+```
