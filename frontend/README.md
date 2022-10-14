@@ -11,7 +11,7 @@ Esse projeto foi construído usando CRA [Create React App](https://github.com/fa
 ## Rodando a aplicação
 ## Em ambiente de desenvolvimento
 
->>> Antes de acessar a página do front, certifique-se que o backend esteja rodando na porta 8000 antes.
+> Antes de acessar a página do front, certifique-se que o backend esteja rodando na porta 8000 antes.
 
 Pra rodar o front, rode o seguinte comando no terminal:
 
