@@ -14,10 +14,11 @@ Vá até a pasta `backend` e rode os seguintes comandos
 
 Instale as dependências da aplicação
 ```
+cd backend
 npm install
 ```
 
-Rode o servidor pra escutar na porta `8000` (porta padrão no arquivo `.env`)
+Ainda dentro da pasta `backend` rode o servidor pra escutar na porta `8000` (porta padrão no arquivo `.env`)
 ```
 npm start
 ```
@@ -32,10 +33,11 @@ Agora abra outro terminal e vai até a pasta `frontend` e rode os seguintes coma
 
 Instale as dependências da aplicação
 ```
+cd frontend
 npm install
 ```
 
-Rode o comando abaixo pro React iniciar
+Ainda dentro da pasta `frontend` rode o comando abaixo pro React iniciar
 **Certifique-se de rodar o backend primeiro**
 ```
 npm start

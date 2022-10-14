@@ -10,7 +10,7 @@
 ### Em ambiente de desenvolvimento
 
 Pra rodar o backend, rode o seguinte comando no terminal:
-
+> Certifique-se de estar dentro da pasta `backend`
 ```
 npm start
 ```

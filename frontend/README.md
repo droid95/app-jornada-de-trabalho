@@ -9,12 +9,18 @@ Esse projeto foi construído usando CRA [Create React App](https://github.com/fa
 #### `v22.04`
 
 ## Rodando a aplicação
+
+Antes de rodar a aplicação, instale as dependências do app
+```
+npm install
+```
+
 ## Em ambiente de desenvolvimento
 
 > Antes de acessar a página do front, certifique-se que o backend esteja rodando na porta 8000 antes.
 
 Pra rodar o front, rode o seguinte comando no terminal:
-
+> Certifique-se de estar dentro da pasta `frontend`
 ```
 npm start
 ```
